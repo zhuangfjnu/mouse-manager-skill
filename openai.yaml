@@ -1,0 +1,7 @@
+interface:
+  display_name: "Manage Mouse Colony"
+  short_description: "Maintain mouse colony sheets"
+  default_prompt: "Use $manage-mouse-colony to update or query a mouse colony spreadsheet."
+
+policy:
+  allow_implicit_invocation: true
